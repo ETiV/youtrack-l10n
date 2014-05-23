@@ -8,4 +8,8 @@
         <name>Polski (community)</name>
         <locale>pl_PL</locale>
     </localeEntry>
+    <localeEntry>
+        <name>简体中文 (community)</name>
+        <locale>zh_CN</locale>
+    </localeEntry>
 </locales>
